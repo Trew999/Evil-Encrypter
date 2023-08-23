@@ -7,6 +7,9 @@ Trew999
 
 options:
   -h, --help      show this help message and exit
+  
   -e, --encrypt   encrypt files and directories
+  
   -d, --decrypt   decrypt files and directories
+  
   -g, --generate  generate a new key
